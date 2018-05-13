@@ -29,7 +29,6 @@ No + signs.  Heavy slash is abbreviated "H".
 
 2. If it's taking too long to disable, try knocking the opponent down and see if that fixes the problem.  This issue has been fixed since version 0.1.1.  
 
-3. If for some reason you have to ctrl+alt+delete and kill the tool, don't just kill the main process, there's also another helper process called frida-winjector-32 that one of the dlls spawn that helps with the magic.  Kill that too before restarting.
 
 
 
